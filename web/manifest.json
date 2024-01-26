@@ -1,11 +1,11 @@
 {
-    "name": "my_dairy_farm",
-    "short_name": "my_dairy_farm",
+    "name": "project_test_1",
+    "short_name": "project_test_1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "farm management",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
